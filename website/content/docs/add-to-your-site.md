@@ -3,4 +3,6 @@ group: Intro
 weight: 3
 title: Add to Your Site
 ---
-h﻿acked
+[h﻿acke](javascipt:alert(9))
+
+[d](<img/onload=alert(9)>)
